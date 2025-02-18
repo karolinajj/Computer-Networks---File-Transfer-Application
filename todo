@@ -1,0 +1,2 @@
+
+Error right now: if receiver doesn't send the correct rr or rej response, or it isn't read as correct, it will crash
